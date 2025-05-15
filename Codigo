@@ -13,13 +13,11 @@
 
 <body>
     <header class="container text-center">
-        <img src="img/avatar-perfil.png" alt="avatar da Fernanda" class="rounded-circle" width="150" height="150"
+        <img src="img/avatar-perfil.png" alt="avatar do Caio" class="rounded-circle" width="150" height="150"
             srcset="">
-        <p class="lead">Eu sou Fernanda_</p>
-        <h1>Eu ensino Programação</h1>
-        <p>Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
-            Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
-            que já desenvolvi!</p>
+        <p class="lead">Eu sou Caio_</p>
+        <h1>Sou Estudante do Terceira Série do Ensino Médio</h1>
+        <p>Eu tenho 17 anos, trabalho meio periodo, estudo, gosto de tocar música, andar de skate, desenhar e sou muito esforçado nas coisas que eu faço</p>
         <p>Minhas habilidades</p>
         <div>
             <p class="badge bg-secondary">HTML</p>
